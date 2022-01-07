@@ -80,3 +80,11 @@ input:focus{
 	background: linear-gradient(to right, #1f3c88, #070d59); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	box-shadow: 0 0 3px rgba(0,0,0, 0.1);
 }
+@media (max-width: 725px){
+	#container{
+		margin: 1em auto;
+		width: 100%;
+	}
+	
+	
+}
